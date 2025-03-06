@@ -41,3 +41,17 @@ D:\personryan\Personal_Finance_Dashboard\Backend\bin\Debug\net7.0\Microsoft.Enti
 D:\personryan\Personal_Finance_Dashboard\Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\personryan\Personal_Finance_Dashboard\Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\personryan\Personal_Finance_Dashboard\Backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.Bcl.Memory.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.Bcl.TimeProvider.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\DotNetEnv.dll
+D:\personryan\Personal_Finance_Dashboard\backend\bin\Debug\net7.0\Sprache.dll

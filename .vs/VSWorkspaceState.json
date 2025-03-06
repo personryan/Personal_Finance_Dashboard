@@ -2,10 +2,6 @@
   "ExpandedNodes": [
     "",
     "\\Backend",
-    "\\Backend\\bin\\Debug",
-    "\\Backend\\bin\\Debug\\net7.0",
-    "\\Backend\\bin\\Release",
-    "\\Backend\\bin\\Release\\net7.0",
     "\\Backend\\Data",
     "\\Backend\\Migrations",
     "\\Backend\\Models",
